@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-SVZeydjEdi](https://www.frontendmentor.io/solutions/interactive-rating-component-SVZeydjEdi)
+- Live Site URL: [https://josh76543210-fm-interactive-rating.netlify.app/](https://josh76543210-fm-interactive-rating.netlify.app/)
 
 ## My process
 
